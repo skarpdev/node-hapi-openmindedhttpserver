@@ -3,7 +3,7 @@ Open-minded HTTP server
 
 An HTTP server that accepts anything.
 
-The idea is to use this with (docker-compose)[https://docs.docker.com/compose/] in projects where you are integration with http services that does not yet exist. It could be that you are building a component in a microservice system where some of the microservices you will depend on does not exist yet. Then you can use this as a means of calling something.
+The idea is to use this with [docker-compose](https://docs.docker.com/compose/) in projects where you are integration with http services that does not yet exist. It could be that you are building a component in a microservice system where some of the microservices you will depend on does not exist yet. Then you can use this as a means of calling something.
 
 The response
 ------------
